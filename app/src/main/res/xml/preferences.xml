@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="pref_time">
+
+    <EditTextPreference
+        android:id="@+id/pref_hours"
+        android:key="pref_hours"
+        android:persistent="true"
+        android:title="@string/reminder_hours_label"
+        android:defaultValue="08"
+        />
+
+    <EditTextPreference
+        android:id="@+id/pref_minutes"
+        android:key="pref_minutes"
+        android:persistent="true"
+        android:title="@string/reminder_minute_label"
+        android:defaultValue="00"
+        />
+</PreferenceScreen>

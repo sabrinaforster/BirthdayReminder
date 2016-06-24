@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BirthdayReminder</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="reminderTimeText">Erinnerungsuhrzeit festlegen</string>
+    <string name="reminder_hours_label">Erinnerungs Stunde</string>
+    <string name="reminder_minute_label">Erinnerungs Minute</string>
+    <string name="local_service_label">BirthdayReminder</string>
+    <string name="local_service_content2">"alles Gute!"</string>
+    <string name="saveText">Gespeichert</string>
+    <string name="local_service_content1">Wünsche</string>
+    <string name="title_activity_settings">Activity Settings</string>
+    <string name="age">. Jahre)</string>
+    <string name="local_service_stopped">Local Service stopped!</string>
+    <string name="local_service_showNotification">start Notificaiton</string>
+    <string name="dateFormatNormal">yyyy-MM-dd</string>
+    <string name="dateFormatSkype">dd.MM.yyyy</string>
+</resources>
